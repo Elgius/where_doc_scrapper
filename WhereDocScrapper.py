@@ -12,6 +12,29 @@ from typing import Dict, List
 
 
 class WhereDocScrapper:
+    """
+    The main scrapper for WhereDoc used to gather data for the website. 
+    
+    ## Methods
+    ----------
+    ### With Selenium:
+
+    `Selenium_init()`
+        Used to initialise the Selenium driver. This has to be called if you are planning to call another Selenium method.
+    
+    `Selenium_AdkHospitalDocs(file_name = "adk_doctors")`
+        Used to scrape the doctors listed on the ADK hospital website and outputs to a JSON file called `file_name`.
+
+    `Selenium_AdkSchedule(date)`
+        Used to scrape the doctors' duty schedule of the specified `date`. Input the `date` you want in the format "DDMMYYYY" as a string.
+        Returns the doctors' duty schedule of that `date`.
+
+    ### With BS4:
+
+    `AdkSchedule(date)`
+        Used to scrape the doctors' duty schedule of the specified `date`. Input the `date` you want in the format "DDMMYYYY" as a string.
+        Returns the doctors' duty schedule of that `date`.
+    """
     def __init__(self):
         self.driver = None
     
@@ -29,9 +52,9 @@ class WhereDocScrapper:
             options = self.options
         )
     
-    def AdkHospitalDocs(self, file_name: str = "adk_doctors"):
+    def Selenium_AdkHospitalDocs(self, file_name: str = "adk_doctors"):
         """
-        This will scrape ADK Hospital Doctors. `file_name` will be \"adk_doctors\" by default unless specified by the user.
+        This will scrape ADK Hospital Doctors. `file_name` will be "adk_doctors" by default unless specified by the user.
         
         P.S: Uses Selenium.
         """
@@ -112,9 +135,10 @@ class WhereDocScrapper:
     
     def AdkSchedule(self, date: str):
         """
-        Get Adk Doctors Schedule using BeautifulSoup.
+        Scrape Adk Doctors' Schedule using BeautifulSoup.
         
-        Input the `date` you want in the format "DDMMYYYY" as a string. Returns the doctors' duty schedule of that `date`.
+        Input the `date` you want in the format "DDMMYYYY" as a string. 
+        Returns the doctors' duty schedule of that `date`.
         """
         url = f"https://www.adkhospital.mv/en/duty/{date}"
         with httpx.Client(http2=True, timeout=httpx.Timeout(5, read=None, connect=None)) as client:
@@ -141,4 +165,3 @@ if __name__ == "__main__":
     scrapper = WhereDocScrapper()
     # duty = scrapper.AdkSchedule("04032024")
     # print(duty)
-
