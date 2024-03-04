@@ -1,0 +1,4 @@
+webdriver_manager
+selenium
+bs4
+httpx[http2]
