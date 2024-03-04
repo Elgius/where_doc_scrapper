@@ -133,7 +133,7 @@ class WhereDocScrapper:
         self.driver.close()
         return result
     
-    def AdkSchedule(self, date: str):
+    def AdkSchedule(self, date: str) -> List[Dict[str, str]]:
         """
         Scrape Adk Doctors' Schedule using BeautifulSoup.
         
@@ -164,4 +164,3 @@ class WhereDocScrapper:
 if __name__ == "__main__":
     scrapper = WhereDocScrapper()
     # duty = scrapper.AdkSchedule("04032024")
-    # print(duty)
