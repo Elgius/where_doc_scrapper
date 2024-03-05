@@ -5,10 +5,11 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString, Tag
-import httpx
-from time import sleep
-import json
 from typing import Dict, List
+from time import sleep
+import httpx
+import json
+import os
 
 
 class WhereDocScrapper:
@@ -34,6 +35,11 @@ class WhereDocScrapper:
     `AdkSchedule(date)`
         Used to scrape the doctors' duty schedule of the specified `date`. Input the `date` you want in the format "DDMMYYYY" as a string.
         Returns the doctors' duty schedule of that `date`.
+
+    ### Other:
+
+    `Adk_doctors_and_duty(date, file_name="adk_doctors")`
+        Used to combine the Doctors' information along with the duty schedule of the `date` passed in. (Date format: "DDMMYYYY" as a string)
     """
     def __init__(self):
         self.driver = None
@@ -92,6 +98,8 @@ class WhereDocScrapper:
                         data["designation"] = each
 
                 data['img'] = img_url
+                data['url'] = result.find_element(By.TAG_NAME, "h3").find_element(By.TAG_NAME, "a").get_property("href")
+
                 total_data.append(data)
             
             next_btn = self.driver.find_element(By.XPATH, "/html/body/div[2]/div/div[1]/div/div[1]/div/div[3]/div/div[3]/ul/li[12]/a")
@@ -155,12 +163,52 @@ class WhereDocScrapper:
             cells: List[NavigableString | Tag] = row.find_all("td")
             data["doctor"] = cells[1].text
             data["time"] = cells[2].text
+            data["url"] = f"https://www.adkhospital.mv{cells[1].find('a')['href']}"
 
             result.append(data)
 
         return result
 
+    def Adk_doctors_and_duty(self, date: str, file_name: str = "adk_doctors"):
+        """
+        Combines the Doctors information along with the duty schedule of the `date` passed in. (Date format: "DDMMYYYY" as a string)
+
+        Moreover, pass in the `file_name` of the doctors JSON file if it's different from the default "adk_doctors".
+        If `file_name` does not exists, it will scrape the data into that file.
+        """
+        if not os.path.isfile(f"./{file_name}.json"):
+            print(f"{file_name}.json not found. Moving on to scrapping the data...")
+            self.Selenium_init()
+            self.Selenium_AdkHospitalDocs(file_name)
+
+        retries, previous_len = 0, 0
+        while True:
+            duty = self.AdkSchedule(date)
+            retries += 1
+            if len(duty) != previous_len:
+                previous_len = len(duty)
+            elif len(duty) == previous_len and retries >= 10:
+                break
+
+        with open(f"{file_name}.json", "r") as json_file:
+            adk_doctors: List[Dict[str, str]] = json.load(json_file)
+        
+        for each_doc in adk_doctors:
+            each_doc['duty'] = ""
+            for each_duty in duty:
+                if each_duty['url'].endswith("+"):
+                    each_duty["url"] = each_duty["url"][:-1]
+                    
+                if each_doc['url'] == each_duty['url']:
+                    each_doc['duty'] = each_duty['time']
+                    break
+        
+        with open(f"{file_name}.json", "w", encoding="utf-8") as json_file:
+            json.dump(adk_doctors, json_file, indent=4)
+        
+        return adk_doctors
+
 
 if __name__ == "__main__":
     scrapper = WhereDocScrapper()
-    # duty = scrapper.AdkSchedule("04032024")
+    scrapper.Adk_doctors_and_duty(date="05032024")
