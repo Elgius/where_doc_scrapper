@@ -1,5 +1,6 @@
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -10,6 +11,7 @@ from time import sleep
 import httpx
 import json
 import os
+import asyncio
 
 
 class WhereDocScrapper:
@@ -30,6 +32,9 @@ class WhereDocScrapper:
         Used to scrape the doctors' duty schedule of the specified `date`. Input the `date` you want in the format "DDMMYYYY" as a string.
         Returns the doctors' duty schedule of that `date`.
 
+    `Selenium_IGMH_doctors()`
+        Used to scrape the IGMH doctors' data.
+
     ### With BS4:
 
     `AdkSchedule(date)`
@@ -43,6 +48,7 @@ class WhereDocScrapper:
     """
     def __init__(self):
         self.driver = None
+        self.timeout = httpx.Timeout(5, read=None, connect=None)
     
     def Selenium_init(self):
         """Initialise the Selenium driver."""
@@ -149,7 +155,7 @@ class WhereDocScrapper:
         Returns the doctors' duty schedule of that `date`.
         """
         url = f"https://www.adkhospital.mv/en/duty/{date}"
-        with httpx.Client(http2=True, timeout=httpx.Timeout(5, read=None, connect=None)) as client:
+        with httpx.Client(http2=True, timeout=self.timeout) as client:
             page = client.get(url)
         
         soup = BeautifulSoup(page.content, 'html.parser')
@@ -208,7 +214,57 @@ class WhereDocScrapper:
         
         return adk_doctors
 
+    def Selenium_IGMH_doctors(self):
+        """Scrape the doctors listed on the IGMH website using Selenium."""
+        if not self.driver:
+            self.Selenium_init()
+
+        url = f"https://www.igmh.gov.mv/doctors-2/"
+        results: List[Dict[str, str]] = []
+
+        self.driver.get(url)
+        doctors_table = self.driver.find_element(
+            By.XPATH,
+            "/html/body/div[4]/main/div[1]/article/div/div"
+        )
+        doctors_cells = doctors_table.find_elements(By.CLASS_NAME, "cat-container")
+        
+
+        for cell in doctors_cells:
+            data: Dict[str, str] = {}
+            data["img"] = cell.find_element(By.TAG_NAME, 'img').get_property("src")
+            data["url"] = cell.find_element(By.CLASS_NAME, "post-entry").find_element(By.TAG_NAME, 'a').get_property('href')
+            results.append(data)
+
+        for data in results:
+            self.driver.get(data['url'])
+            data["department"] = self.driver.find_element(
+                By.XPATH,
+                "/html/body/div[4]/main/div/article/div[1]/div[1]/div[2]/div"
+            ).text
+
+            data["designation"] = self.driver.find_element(
+                By.XPATH,
+                "/html/body/div[4]/main/div/article/div[2]/div/table/tbody/tr[2]/td[1]"
+            ).text
+
+            try:
+                data["license"] = self.driver.find_element(
+                    By.XPATH,
+                    "/html/body/div[4]/main/div/article/div[2]/div/table/tbody/tr[5]/td[2]"
+                ).text
+            except NoSuchElementException:
+                data["license"] = self.driver.find_element(
+                    By.XPATH,
+                    "/html/body/div[4]/main/div/article/div[2]/div/table/tbody/tr[4]/td[2]"
+                ).text
+
+            data["duty"] = ""
+        
+        self.driver.close()
+        return results
+
 
 if __name__ == "__main__":
     scrapper = WhereDocScrapper()
-    scrapper.Adk_doctors_and_duty(date="05032024")
+    # result = scrapper.Selenium_IGMH_doctors()

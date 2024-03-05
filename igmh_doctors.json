@@ -1,0 +1,802 @@
+[
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2023/07/farzana.jpg",
+        "url": "https://www.igmh.gov.mv/dr-farzana-shaugee-2/",
+        "department": "Speech Therapy",
+        "designation": "Principal Speech Therapist",
+        "license": "MAHC/CPT/2016/335",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-manoj-munirathinam/",
+        "department": "Gastroenterology",
+        "designation": "Specialist in Gastroenterology",
+        "license": "TMR 4654",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/09/0Z8A9812-e1662024305853.png",
+        "url": "https://www.igmh.gov.mv/dr-ahmed-mahmoud-sami-ahmed-hussein/",
+        "department": "Orthopedics",
+        "designation": "Consultant in Orthopaedics",
+        "license": " TMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Mariyam-Niyaz-e1661843629364.png",
+        "url": "https://www.igmh.gov.mv/dr-mariyam-niyaz/",
+        "department": "Endocrinology",
+        "designation": "Consultant Sub Specialist in Endocrinology",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Waheed-e1661843329883.png",
+        "url": "https://www.igmh.gov.mv/dr-mohamed-waheed/",
+        "department": "Surgery",
+        "designation": "Consultant Sub Specialist in Plastic Surgery",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Ali-Aafee-e1661843162158.png",
+        "url": "https://www.igmh.gov.mv/dr-ali-aafee/",
+        "department": "Surgery",
+        "designation": "Consultant Sub Specialist in Neuro Surgery",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Hussain-Hameed-e1661843002235.png",
+        "url": "https://www.igmh.gov.mv/dr-hussain-hameed/",
+        "department": "Surgery",
+        "designation": "Consultant in Surgery",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Mohamed-Rifshan-Ismail-e1661842906496.png",
+        "url": "https://www.igmh.gov.mv/dr-mohamed-rifshan-ismail/",
+        "department": "Surgery",
+        "designation": "Consultant in Surgery",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-mohamed-kamel-sobhi-mohamed/",
+        "department": "Surgery",
+        "designation": "Consultant in Surgery",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-bharat-mani-banjade/",
+        "department": "Surgery",
+        "designation": "Consultant in Surgery",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-ahmed-r-ragab-zubi/",
+        "department": "Surgery",
+        "designation": "Consultant in Surgery",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Saamira-e1661839386818.png",
+        "url": "https://www.igmh.gov.mv/dr-khadheejath-saamira/",
+        "department": "Psychiatry",
+        "designation": "Consultant in Psychiatry",
+        "license": " PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Uzoechi-Eze-Chikezie-e1661839235418.png",
+        "url": "https://www.igmh.gov.mv/dr-uzoehchi-eze-chikezie/",
+        "department": "Psychiatry",
+        "designation": "Consultant in Psychiatry",
+        "license": " TMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-umme-salma-talukder/",
+        "department": "Psychiatry",
+        "designation": "Consultant in Psychiatry",
+        "license": " TMR 4242",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Prajwol-e1661838929395.png",
+        "url": "https://www.igmh.gov.mv/dr-prajwol-thapa/",
+        "department": "Psychiatry",
+        "designation": "Consultant in Psychiatry",
+        "license": " TMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Nazim-e1661838708414.png",
+        "url": "https://www.igmh.gov.mv/dr-abdulla-nazim/",
+        "department": "Psychiatry",
+        "designation": "Consultant in Psychiatry",
+        "license": " PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Afla-Suhail-e1661834818752.png",
+        "url": "https://www.igmh.gov.mv/dr-afla-suhail/",
+        "department": "Radiology",
+        "designation": "Consultant in Radiology",
+        "license": " PMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-alaa-hassan-ahmed-oraby/",
+        "department": "Radiology",
+        "designation": "Consultant in Radiology",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-ibrahim-shibl-ibrahim-shehabel-din/",
+        "department": "Radiology",
+        "designation": "Consultant in Radiology",
+        "license": " TMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-ibrahim-misbah/",
+        "department": "Urology",
+        "designation": "Consultant Sub-Specialist in Urology",
+        "license": " PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Meeza-Haany-e1661771560485.png",
+        "url": "https://www.igmh.gov.mv/dr-meeza-haany/",
+        "department": "Paediatrics",
+        "designation": "Consultant in Paediatrics",
+        "license": " PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Naflana-Ameen-e1661771495246.png",
+        "url": "https://www.igmh.gov.mv/dr-naflana-ameen/",
+        "department": "Paediatrics",
+        "designation": "Consultant in Paediatrics",
+        "license": " PMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-chandra-prasad-paneru/",
+        "department": "Paediatrics",
+        "designation": "Consultant in Paediatrics",
+        "license": " TMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-samahath/",
+        "department": "Paediatrics",
+        "designation": "Consultant in Paediatrics",
+        "license": " PMR 0203",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-ali-abbas-murshed-abduabdullah/",
+        "department": "Orthopedics",
+        "designation": "Consultant in Orthopaedics",
+        "license": " TMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.Shahana-e1661769578372.png",
+        "url": "https://www.igmh.gov.mv/dr-mariyam-shahana-mufeed/",
+        "department": "Ophthalmology",
+        "designation": "Consultant in Ophthalmology",
+        "license": " PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.Sujau_-e1661767657255.png",
+        "url": "https://www.igmh.gov.mv/dr-ibrahim-sujau/",
+        "department": "Rheumatology",
+        "designation": "Consultant Sub Specialist in Rheumatology",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Hiyan-e1661767404326.png",
+        "url": "https://www.igmh.gov.mv/dr-hiyan-habeeb/",
+        "department": "Internal Medicine",
+        "designation": "Consultant in Medicine",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Mohamed-Sham-e1661767329553.png",
+        "url": "https://www.igmh.gov.mv/dr-mohamed-sham/",
+        "department": "Internal Medicine",
+        "designation": "Consultant in Medicine",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Aminath-Munaza-e1661765369869.png",
+        "url": "https://www.igmh.gov.mv/dr-aminath-munaza/",
+        "department": "Nephrology",
+        "designation": "Consultant in Medicine",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-ramprasad-ramalingam/",
+        "department": "Nephrology",
+        "designation": "Consultant Sub Specialist in Nephrology",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-mohamed-siruhan/",
+        "department": "Endocrinology",
+        "designation": "Consultant Sub Specialist in Endocrinology",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/mr-mahesh-alagiri/",
+        "department": "Dietetics & Nutrition",
+        "designation": "Dietitian",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-ishwor-raj-devkota/",
+        "department": "ENT",
+        "designation": "Consultant in ENT",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-anil-khadka/",
+        "department": "Departments",
+        "designation": "Consultant in Anesthesiology",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-debashis-das/",
+        "department": "Departments",
+        "designation": "Consultant in Anesthesiology",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-amr-reda-mohamed-badawy-mahmoud/",
+        "department": "Departments",
+        "designation": "Consultant in Anesthesiology",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-sadhima-rasheed/",
+        "department": "Departments",
+        "designation": "Consultant in Anesthesiology",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Shazma-e1661684843690.png",
+        "url": "https://www.igmh.gov.mv/dr-fatimath-shazma-rameez/",
+        "department": "Obstetrics & Gynecology",
+        "designation": "Consultant in Obstetrics and Gynecology",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Shoora-e1661682890353.png",
+        "url": "https://www.igmh.gov.mv/dr-fathimath-shoora/",
+        "department": "ENT",
+        "designation": "Consultant in ENT",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-nashwa-ahmed/",
+        "department": "Dermatology",
+        "designation": "Consultant in Dermatology",
+        "license": "PMR 0510",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Smriti-Manandnar-1-e1661679039880.png",
+        "url": "https://www.igmh.gov.mv/dr-smriti-manandnar/",
+        "department": "Departments",
+        "designation": "Consultant in Anesthesiology",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/08/Dr.-Deepak-Kumaer-Sundaresh-2-e1661678850861.png",
+        "url": "https://www.igmh.gov.mv/dr-deepak-kumar-sundaresh-bhyratae/",
+        "department": "Departments",
+        "designation": "Consultant in Anesthesiology",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-ali-shafeeq/",
+        "department": "Departments",
+        "designation": "Senior Consultant Sub Specialist In Cardiology",
+        "license": "PMR 0037",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/03/dr-nusaiba.png",
+        "url": "https://www.igmh.gov.mv/dr-nusaiba-farouk-hassan/",
+        "department": "Paediatrics",
+        "designation": "Consultant in Paediatrics",
+        "license": " PMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-anup-shrestha/",
+        "department": "Surgery",
+        "designation": "Consultant in Surgery",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2022/02/Dr-efa.png",
+        "url": "https://www.igmh.gov.mv/dr-mariyam-efa-abdul-gafoor/",
+        "department": "Departments",
+        "designation": "Conservative Dentistry and Endodontics",
+        "license": " ",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-mahmoud-abdelaziz-mohamed-elshahawy/",
+        "department": "Surgery",
+        "designation": "Consultant in Surgery",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-madheeh-mohamed-hussain/",
+        "department": "Emergency & Trauma",
+        "designation": "Consultant in Emergency Medicine",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-ahmad-alkamel-hamed-mosa/",
+        "department": "Ophthalmology",
+        "designation": "Consultant in Opthalmology",
+        "license": " ",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-mohamed-elshaarawi-mohamed-youssif/",
+        "department": "Departments",
+        "designation": "Consultant in Anesthesiology",
+        "license": " TMR 5136",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/12/Dr-mohamed-mausool-1.png",
+        "url": "https://www.igmh.gov.mv/dr-mohamed-mausool-siraj/",
+        "department": "Departments",
+        "designation": "Consultant in Sub Specialist in Cardiology",
+        "license": " ",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/08/DR-saurav-radiology.png",
+        "url": "https://www.igmh.gov.mv/dr-saurav-sunder-shrestha/",
+        "department": "Radiology",
+        "designation": "Consultant in Radiology",
+        "license": " TMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/07/Munshid-04.png",
+        "url": "https://www.igmh.gov.mv/dr-mohamed-munshid/",
+        "department": "Orthopedics",
+        "designation": "Consultant in Orthopaedics",
+        "license": " PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/07/dr-ihusaaana.png",
+        "url": "https://www.igmh.gov.mv/dr-aminath-ihusaana/",
+        "department": "Radiology",
+        "designation": "Consultant in Radiology",
+        "license": " PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/07/Dr.-Zooshan.png",
+        "url": "https://www.igmh.gov.mv/dr-ahmed-zooshan/",
+        "department": "Internal Medicine",
+        "designation": "Senior Consultant in Medicine",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/07/Dr.-Muthuim-03.png",
+        "url": "https://www.igmh.gov.mv/dr-mohamed-muthuim/",
+        "department": "Internal Medicine",
+        "designation": "Consultant in Medicine",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/07/hanaaaa-1.jpg",
+        "url": "https://www.igmh.gov.mv/dr-hana-nooh/",
+        "department": "ENT",
+        "designation": "Consultant in ENT",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/07/seeennaaaa.jpg",
+        "url": "https://www.igmh.gov.mv/dr-fathimath-seena/",
+        "department": "ENT",
+        "designation": "Consultant in ENT",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/07/zulaikha.jpg",
+        "url": "https://www.igmh.gov.mv/dr-zulaikha-mohamed/",
+        "department": "Obstetrics & Gynecology",
+        "designation": "Consultant in Obstetrics and Gynecology",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/07/Dr.-Mariyam-Yoomy-Consultant-in-Ortho-Copy.png",
+        "url": "https://www.igmh.gov.mv/dr-mariyam-yoomy/",
+        "department": "Orthopedics",
+        "designation": "Consultant in Orthopaedics",
+        "license": " PMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-snaju-sharma/",
+        "department": "Laboratory Medicine",
+        "designation": "Consultant in Pathology",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/Suneetha.jpg",
+        "url": "https://www.igmh.gov.mv/suneetha-padhy/",
+        "department": "Laboratory Medicine",
+        "designation": "Senior Consultant in Pathology",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-yasimin-mohamed-ahmed-elhanafy-shehate/",
+        "department": "Radiology",
+        "designation": "Consultant in Radiology",
+        "license": " TMR 4104",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/Dr.-Maeesha-Solih.png",
+        "url": "https://www.igmh.gov.mv/dr-maeesha-solih/",
+        "department": "Radiology",
+        "designation": "Consultant in Radiology",
+        "license": " PMR 0278",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/Dr.-Dipak.png",
+        "url": "https://www.igmh.gov.mv/dr-dipak-muktan/",
+        "department": "Paediatrics",
+        "designation": "Consultant in Paediatrics",
+        "license": " TMR 3971",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-sathish-koirala/",
+        "department": "Paediatrics",
+        "designation": "Consultant in Paediatrics",
+        "license": "TMR 3906",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/07/Dr.-Paeds-06.png",
+        "url": "https://www.igmh.gov.mv/dr-mohamed-areed-abdelwahab/",
+        "department": "Paediatrics",
+        "designation": "Consultant in Paediatrics",
+        "license": " TMR 3782",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/Dr.-Nazla-13.png",
+        "url": "https://www.igmh.gov.mv/dr-nazla-musthafa-luthfee/",
+        "department": "Paediatrics",
+        "designation": "Consultant Sub Specialist in Paediatric Infectious Disease",
+        "license": " PMR 0097",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/Dr-juman.png",
+        "url": "https://www.igmh.gov.mv/dr-hussain-juman-jaleel/",
+        "department": "Obstetrics & Gynecology",
+        "designation": "Consultant in Obstetrics and Gynecology",
+        "license": "PMR 0288",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-aminath-zahra/",
+        "department": "Obstetrics & Gynecology",
+        "designation": "Consultant in Obstetrics and Gynecology",
+        "license": "PMR 0238",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/dr-shaihan-3.png",
+        "url": "https://www.igmh.gov.mv/dr-shaiha-mohamed/",
+        "department": "Departments",
+        "designation": "Dental Officer",
+        "license": "PMR 0528",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/dr-yumna.png",
+        "url": "https://www.igmh.gov.mv/dr-yumna-mohamed-muhsin/",
+        "department": "Departments",
+        "designation": "Dental Officer",
+        "license": "PMR 1806",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/dr-eenaz.png",
+        "url": "https://www.igmh.gov.mv/dr-enaz-abdulla/",
+        "department": "Departments",
+        "designation": "Dental Officer",
+        "license": "PMR 0606",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/Dr-mahiya.jpg",
+        "url": "https://www.igmh.gov.mv/dr-mariyam-mahiya/",
+        "department": "Departments",
+        "designation": "Associate Specialist in Endodontics",
+        "license": "PMR 0326",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/Dr.-fathuhulla-saeed.png",
+        "url": "https://www.igmh.gov.mv/dr-fathuhulla-saeed/",
+        "department": "Departments",
+        "designation": "Consultant in Oral & Maxillo Facial Surgery",
+        "license": "PMR 0222",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/dr-raju.png",
+        "url": "https://www.igmh.gov.mv/dr-raju-bhandari/",
+        "department": "Surgery",
+        "designation": "Consultant in Surgery",
+        "license": "TMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/Dr-hammad.png",
+        "url": "https://www.igmh.gov.mv/dr-hammad-adam/",
+        "department": "Surgery",
+        "designation": "Consultant in Surgery",
+        "license": "PMR 0335",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/Dr-subash.jpg",
+        "url": "https://www.igmh.gov.mv/dr-subash-bhatta/",
+        "department": "ENT",
+        "designation": "Consultant in ENT",
+        "license": "TMR 4882",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-shirish-shakti-maskay/",
+        "department": "Departments",
+        "designation": "Consultant in Anaesthesiology",
+        "license": "TMR 4888",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/Dr.elena-Bikova.png",
+        "url": "https://www.igmh.gov.mv/dr-elena-bykova/",
+        "department": "Departments",
+        "designation": "Consultant in Anesthesiology",
+        "license": "TMR 3638",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/Dr-anjali-Poudel.png",
+        "url": "https://www.igmh.gov.mv/dr-anjali-poudel/",
+        "department": "Departments",
+        "designation": "Consultant in Anesthesiology",
+        "license": "TMR 4646",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/Dr-asadanaes.png",
+        "url": "https://www.igmh.gov.mv/dr-asadh-mohamed-shaheed/",
+        "department": "Departments",
+        "designation": "Consultant in Anesthesiology",
+        "license": "PMR 0331",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/hylt.png",
+        "url": "https://www.igmh.gov.mv/dr-mohamed-amru-ahmed/",
+        "department": "Oncology",
+        "designation": "Consultant Clinical Oncologist",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "",
+        "url": "https://www.igmh.gov.mv/dr-ibrahim-faisal/",
+        "department": "Endocrinology",
+        "designation": "Consultant in Endocrinology",
+        "license": "PMR 0289",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/Dr-santosh.png",
+        "url": "https://www.igmh.gov.mv/dr-santosh-kumar-kella/",
+        "department": "Psychiatry",
+        "designation": "Consultant in Psychiatry",
+        "license": " TMR 4483",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/Dr.-Anoop-09.png",
+        "url": "https://www.igmh.gov.mv/dr-anoop-kumar-mishra/",
+        "department": "Urology",
+        "designation": "Consultant Sub-Specialist in Urology",
+        "license": " TMR 4769",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/04/dr-ahmed.png",
+        "url": "https://www.igmh.gov.mv/dr-ahmed-abdulla-2/",
+        "department": "Nephrology",
+        "designation": "Consultant in Medicine",
+        "license": "PMR 0258",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2021/07/Dr.-Shaneez.png",
+        "url": "https://www.igmh.gov.mv/dr-mohamed-shaneez-najmy/",
+        "department": "Departments",
+        "designation": "Consultant Sub Specialist In Cardiology",
+        "license": "PMR 0317",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2020/08/0Z8A4819-1-e1598341122627.jpg",
+        "url": "https://www.igmh.gov.mv/dr-abdulla-adsar/",
+        "department": "Urology",
+        "designation": "Consultant Sub-Specialist in Urology",
+        "license": " PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2019/10/yusra.jpg",
+        "url": "https://www.igmh.gov.mv/dr-yusra-ali/",
+        "department": "Radiology",
+        "designation": "Consultant in Radiology",
+        "license": " PMR 0309",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2019/10/dr-nadheema.jpg",
+        "url": "https://www.igmh.gov.mv/dr-nadheema-rasheed/",
+        "department": "Departments",
+        "designation": "Consultant in Orthodontics",
+        "license": "PMR 0235",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2019/10/juveiriya.jpg",
+        "url": "https://www.igmh.gov.mv/dr-juwairiya-ahmed/",
+        "department": "Obstetrics & Gynecology",
+        "designation": "Consultant in Obstetrics and Gynecology",
+        "license": "PMR 0246",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2019/10/limya.jpg",
+        "url": "https://www.igmh.gov.mv/dr-aishath-limya/",
+        "department": "Obstetrics & Gynecology",
+        "designation": "Consultant in Obstetrics and Gynecology",
+        "license": "PMR 0176",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2019/10/Shanooha.jpg",
+        "url": "https://www.igmh.gov.mv/dr-shanooha-mansoor/",
+        "department": "Psychiatry",
+        "designation": "Consultant in Psychiatry",
+        "license": " PMR 0166",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2019/10/Piyush.jpg",
+        "url": "https://www.igmh.gov.mv/dr-piyush-niroula/",
+        "department": "Neurology",
+        "designation": "Consultant in Neurology",
+        "license": "TMR 4243",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2019/10/nafeesa.jpg",
+        "url": "https://www.igmh.gov.mv/dr-nafeesa-abdul-latheef/",
+        "department": "Ophthalmology",
+        "designation": "Consultant in Ophthalmology",
+        "license": " PMR 0311",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2019/10/Dr-ubaid.png",
+        "url": "https://www.igmh.gov.mv/dr-abdulla-ubaid/",
+        "department": "Surgery",
+        "designation": "Senior Consultant in Surgery",
+        "license": "PMR 0045",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2019/10/asiya.jpg",
+        "url": "https://www.igmh.gov.mv/asiya-abdul-raheem/",
+        "department": "Dietetics & Nutrition",
+        "designation": "Dietitian",
+        "license": "PMR",
+        "duty": ""
+    },
+    {
+        "img": "https://www.igmh.gov.mv/wp-content/uploads/2019/10/zzzz.jpg",
+        "url": "https://www.igmh.gov.mv/dr-ahmed-shifaz/",
+        "department": "ENT",
+        "designation": "Consultant in ENT",
+        "license": "PMR 0158",
+        "duty": ""
+    }
+]
