@@ -1,0 +1,1164 @@
+[
+    {
+        "name": "Dr. Abdulla Ahusan",
+        "department": "Medical Officers",
+        "joined": "23 December 2018",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/221_5._Dr._Abdulla_Ahusan,_Medical_Officer-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Abdulla-Ahusan",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Abdulla Niyaf",
+        "department": "Pediatrics",
+        "joined": "9 August 2012",
+        "license": "PMR0055",
+        "designation": "Senior Consultant & Head of Department of Pediatrics and Neonatology, and Chief Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/67_Dr_Abdulla_Niyaf.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/abdulla-niyaf",
+        "duty": "16:00 - 19:00"
+    },
+    {
+        "name": "Dr. Adam Khaleel Yoosuf",
+        "department": "Laboratory",
+        "joined": "14 December 2011",
+        "license": "PMR0138",
+        "designation": "Consultant Pathologist",
+        "img": "https://www.adkhospital.mv/resources/employee/44_Dr_Khaleel_website.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/adam-khaleel-yoosuf",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Ahmed Nishan",
+        "department": "Surgery",
+        "joined": "13 July 2016",
+        "license": "PMR0160",
+        "designation": "Chief Surgical Officer and Senior Consultant in Surgery",
+        "img": "https://www.adkhospital.mv/resources/employee/143_Nishan-removebg-preview.png",
+        "url": "https://www.adkhospital.mv/en/employee/ahmed-nishan",
+        "duty": "10:00 - 15:00"
+    },
+    {
+        "name": "Dr. Ahmed Ziyan",
+        "department": "Emergency Medicine",
+        "joined": "1 March 2021",
+        "license": "PMR0075",
+        "designation": "Senior Consultant in Emergency Medicine & Director, Shafi'a Institute of Health, ADK Hospital",
+        "img": "https://www.adkhospital.mv/resources/employee/272_Dr.Ziyan-removebg-preview.png",
+        "url": "https://www.adkhospital.mv/en/employee/ahmed-ziyan",
+        "duty": ""
+    },
+    {
+        "name": "Ms Aishath Dhimna",
+        "department": "Physiotherapy & Rehabilitation",
+        "designation": "Senior Physiotherapist",
+        "img": "https://www.adkhospital.mv/resources/employee/335_IMG_2706-removebg-preview.png",
+        "url": "https://www.adkhospital.mv/en/employee/Aishath-Dhimna",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Aishath Ibna Adnan",
+        "department": "Opthalmology",
+        "joined": "23 May 2021",
+        "license": "PMR0225",
+        "designation": "Consultant in Ophthalmology",
+        "img": "https://www.adkhospital.mv/resources/employee/303_Ibna-removebg-preview.png",
+        "url": "https://www.adkhospital.mv/en/employee/aishath-ibna-adnan",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Aishath Jeneena Amir",
+        "department": "Opthalmology",
+        "joined": "16 August 2020",
+        "license": "PMR0211",
+        "designation": "Consultant in Ophthalmology",
+        "img": "https://www.adkhospital.mv/resources/employee/267_4772_-_Dr._Jeneena.png",
+        "url": "https://www.adkhospital.mv/en/employee/aishath-jeneena-amir",
+        "duty": "08:00 - 15:00"
+    },
+    {
+        "name": "Dr. Aishath Thasneem Mohamed",
+        "department": "Medical Officers",
+        "joined": "30 June 2019",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/236_4478-_Dr._Aisha_(_Medical_Officer).JPG",
+        "url": "https://www.adkhospital.mv/en/employee/%20aishath-thasneem-mohamed",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Aishath Zaha",
+        "department": "Medical Officers",
+        "joined": "10 January 2024",
+        "license": "PROV MR 3002 B",
+        "img": "https://www.adkhospital.mv/resources/employee/375_5985_-_Dr._Zaha_(Medical_Officer)-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Aishath-Zaha",
+        "duty": ""
+    },
+    {
+        "name": "Ms Aishath Zimna Hussain",
+        "department": "Speech Therapy",
+        "designation": "Audiology, Speech and Language Pathologist",
+        "img": "https://www.adkhospital.mv/resources/employee/191_Ms_Zimna_website.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/Zimna",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Ali Niyaf",
+        "department": "Neurosurgery",
+        "joined": "14 October 2014",
+        "license": "PMR0149",
+        "designation": "Senior Consultant in Neurosurgery",
+        "img": "https://www.adkhospital.mv/resources/employee/60_Dr_Ali_Niyaf_website.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/ali-niyaf",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Amal Basnet",
+        "department": "Rheumatology",
+        "joined": "9 November 2021",
+        "license": "TMR5128",
+        "designation": "Rheumatologist",
+        "img": "https://www.adkhospital.mv/resources/employee/289_5289-_Dr._Amal_(Rheumatologist).png",
+        "url": "https://www.adkhospital.mv/en/employee/amal-basnet",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Aminath Haifa",
+        "department": "Medical Officers",
+        "joined": "17 January 2022",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/295_5380-_Dr._Haifa_(Medical_officer).png",
+        "url": "https://www.adkhospital.mv/en/employee/aminath-haifa",
+        "duty": "08:00 - 16:00"
+    },
+    {
+        "name": "Dr. Aminath Hishma",
+        "department": "Dentistry",
+        "joined": "16 March 2019",
+        "license": "PMR0435",
+        "designation": "Dentist",
+        "img": "https://www.adkhospital.mv/resources/employee/227_4386-_Hishma.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/Hishma",
+        "duty": "08:00 - 15:30"
+    },
+    {
+        "name": "Dr. Aminath Ifasha Gasim",
+        "department": "Orthopedics",
+        "joined": "4 February 2019",
+        "license": "PMR0175",
+        "designation": "Consultant in Orthopaedics",
+        "img": "https://www.adkhospital.mv/resources/employee/223_Dr_ifasa-Recovered.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/aminath-ifasha-gasim",
+        "duty": "08:00 - 13:00"
+    },
+    {
+        "name": "Dr. Aminath Rifla",
+        "department": "Medical Officers",
+        "joined": "28 January 2023",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/330_5728_-_Dr._Aminath_Rifla.png",
+        "url": "https://www.adkhospital.mv/en/employee/Aminath-Rifla",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Aminath Sausan",
+        "department": "Medical Officers",
+        "license": "MR2459B",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/308_5531_-_Dr._Sausan.png",
+        "url": "https://www.adkhospital.mv/en/employee/Aminath-Sausan",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Amjad Hussain",
+        "department": "Psychiatry",
+        "joined": "30 November 2023",
+        "license": "TMR6059",
+        "designation": "Consultant in Psychiatry",
+        "img": "https://www.adkhospital.mv/resources/employee/370_5949_-_Dr._Amjad_(Consultant_in_Psychiatry)-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Amjad-Hussain",
+        "duty": ""
+    },
+    {
+        "name": "Mr Anil Rimal",
+        "department": "Physiotherapy & Rehabilitation",
+        "designation": "Physiotherapist Grade II",
+        "img": "https://www.adkhospital.mv/resources/employee/344_5789_-_Anil.png",
+        "url": "https://www.adkhospital.mv/en/employee/Anil-Rimal",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Anisha Basnet",
+        "department": "Anesthesia",
+        "joined": "18 November 2023",
+        "license": "TMR6029",
+        "designation": "Consultant in Anesthesiology",
+        "img": "https://www.adkhospital.mv/resources/employee/369_5927_-_Dr._Anisha_(_Consultant_in_Anesthesiology_)-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Anisha-Basnet",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Anjana K C",
+        "department": "Pathology",
+        "joined": "9 November 2021",
+        "license": "TMR5127",
+        "designation": "Consultant in Pathology",
+        "img": "https://www.adkhospital.mv/resources/employee/290_5290-_Dr._Anjana_(Consultant_in_Pathology).png",
+        "url": "https://www.adkhospital.mv/en/employee/anjana-k-c",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Anupama Bhattarai",
+        "department": "Obstetrics & Gynecology",
+        "joined": "26 June 2022",
+        "license": "TMR5379",
+        "designation": "Consultant in Obstetrics & Gynecology",
+        "img": "https://www.adkhospital.mv/resources/employee/309_2nd_Image-removebg-preview.png",
+        "url": "https://www.adkhospital.mv/en/employee/Anupama-Bhattarai",
+        "duty": "08:00 - 13:00"
+    },
+    {
+        "name": "Dr. Apil Dev Neupane",
+        "department": "Internal Medicine",
+        "joined": "19 November 2016",
+        "license": "TMR3640",
+        "designation": "Consultant Internal Medicine",
+        "img": "https://www.adkhospital.mv/resources/employee/156_Dr_Apil_website.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/apil-dev-neupane",
+        "duty": "09:00 - 15:00"
+    },
+    {
+        "name": "Dr. Arusha Ali Rasheed",
+        "department": "Medical Officers",
+        "joined": "9 August 2018",
+        "license": "PMR0417",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/217_Aroosha-removebg-preview.png",
+        "url": "https://www.adkhospital.mv/en/employee/Arusha-Ali-Rasheed",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Ashish Kailashchandra Nema",
+        "department": "Cardiology",
+        "joined": "14 January 2020",
+        "license": "TMR4643",
+        "designation": "Consultant in Cardiology",
+        "img": "https://www.adkhospital.mv/resources/employee/258_Dr.Ashish.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/ashish-kailashchandra-nema",
+        "duty": "15:00 - 22:00"
+    },
+    {
+        "name": "Dr. Azam Farish",
+        "department": "Radiology",
+        "joined": "4 June 2022",
+        "license": "PMR0272",
+        "designation": "Consultant in Radiology",
+        "img": "https://www.adkhospital.mv/resources/employee/312_IMG_0682-removebg-preview.png",
+        "url": "https://www.adkhospital.mv/en/employee/Azam-Farish",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Bhumika Pradhan",
+        "department": "Nephrology",
+        "img": "https://www.adkhospital.mv/resources/employee/357_Dr.Bhumika-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Bhumika-Pradhan",
+        "duty": "08:00 - 15:00"
+    },
+    {
+        "name": "Dr. Binod Gautam",
+        "department": "Anesthesia",
+        "license": "TMR5232",
+        "designation": "Senior Consultant in Anesthesiology",
+        "img": "https://www.adkhospital.mv/resources/employee/360_5877_-_Dr._Binod_(Senior_Consultant_in_Anesthesiology)-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Binod-gautam",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Birbal Mahato",
+        "department": "Medical Officers",
+        "joined": "15 January 2024",
+        "license": "PROV MR 3036 B",
+        "img": "https://www.adkhospital.mv/resources/employee/378_5990_-_Dr._Birbal_(Medical_Officer)-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Birbal-Mahato",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Budhi Nath Adhikari Sudhin",
+        "department": "Reconstructive, Regenerative and Aesthetic Surgery",
+        "joined": "1 June 2022",
+        "license": "TMR5341",
+        "designation": "Senior Consultant in Plastic & Reconstruction Surgery",
+        "img": "https://www.adkhospital.mv/resources/employee/307_5528_-_Dr._Budhi.png",
+        "url": "https://www.adkhospital.mv/en/employee/Budhi-Nath-Adhikari-Sudhin",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Damodar Pant",
+        "department": "Surgery",
+        "joined": "29 June 2022",
+        "license": "TMR3651",
+        "designation": "Senior Consultant in Surgery (Tier-1)",
+        "img": "https://www.adkhospital.mv/resources/employee/314_3566-_Damodar_(Consultant_in_Surgery).png",
+        "url": "https://www.adkhospital.mv/en/employee/Damodar-Pant",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Debashis Das",
+        "department": "Anesthesia",
+        "license": "TMR5038",
+        "designation": "Consultant in Anesthesiology",
+        "img": "https://www.adkhospital.mv/resources/employee/359_5872-_Dr._Debashis_(Consultant_in_Anesthesiology)-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Debashis-das",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Dharmesh R Bhatti",
+        "department": "Obstetrics & Gynecology",
+        "joined": "26 June 2010",
+        "license": "TMR0122",
+        "designation": "Senior Consultant in Obstetrics and Gynaecology",
+        "img": "https://www.adkhospital.mv/resources/employee/25_Dr_Bhatti.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/dharmesh-r-bhatti",
+        "duty": "16:00 - 21:00"
+    },
+    {
+        "name": "Ms Dikshaya Yadav",
+        "department": "Physiotherapy & Rehabilitation",
+        "designation": "Physiotherapist",
+        "img": "https://www.adkhospital.mv/resources/employee/336_3503-_Dikshya_(Physiotherapist_Grade_I).png",
+        "url": "https://www.adkhospital.mv/en/employee/Dikshaya-Yadav",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Dipesh Karki",
+        "department": "Medical Officers",
+        "joined": "20 December 2022",
+        "designation": "Medical officer",
+        "img": "https://www.adkhospital.mv/resources/employee/325_5705_-_Dr._Dipesh.png",
+        "url": "https://www.adkhospital.mv/en/employee/Dipesh-Karki",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Diwas Dhungana",
+        "department": "Pediatrics",
+        "joined": "4 December 2023",
+        "license": "TMR4752",
+        "designation": "Senior Consultant in Peadiatrics",
+        "img": "https://www.adkhospital.mv/resources/employee/372_5954_-_Dr._Diwas-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Diwas-Dhungana",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Dusooma Abdul Razzag",
+        "department": "Anesthesia",
+        "license": "PMR0161",
+        "designation": "Senior Consultant in Anesthesia",
+        "img": "https://www.adkhospital.mv/resources/employee/181_Dr_Dusooma.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/Dusooma-abdul-razzag",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Fathimath Leeshiya Ahmed",
+        "department": "Medical Officers",
+        "designation": "Medical officer",
+        "img": "https://www.adkhospital.mv/resources/employee/323_5671_-_Leeshiya.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/Fathimath-Leeshiya-Ahmed",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Fathimath Nasiha",
+        "department": "Pediatrics",
+        "joined": "14 June 2021",
+        "license": "PMR0301",
+        "designation": "Consultant in Peadiatrics",
+        "img": "https://www.adkhospital.mv/resources/employee/268_Nasiha_2.png",
+        "url": "https://www.adkhospital.mv/en/employee/fathimath-nasiha",
+        "duty": "08:00 - 15:00"
+    },
+    {
+        "name": "Dr. Fathimath Saazleen",
+        "department": "Medical Officers",
+        "joined": "27 August 2023",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/355_5860-_Dr._Saazleen.png",
+        "url": "https://www.adkhospital.mv/en/employee/Fathimath-Saazleen",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Fathimath Zuwaida",
+        "department": "Surgery",
+        "joined": "6 February 2022",
+        "license": "PMR0152",
+        "designation": "Consultant in Surgery",
+        "img": "https://www.adkhospital.mv/resources/employee/313_5410-_Dr._Zuwaida_(Consultant_in_Surgery_).png",
+        "url": "https://www.adkhospital.mv/en/employee/Fathimath-Zuwaida",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Fathmath Asra Saeed",
+        "department": "Medical Officers",
+        "joined": "17 August 2022",
+        "designation": "Medical officer",
+        "img": "https://www.adkhospital.mv/resources/employee/316_5578_-_Dr_Asra.png",
+        "url": "https://www.adkhospital.mv/en/employee/Fathmath-Asra-Saeed",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Fathmath Faiha Faiz",
+        "department": "Medical Officers",
+        "joined": "26 March 2019",
+        "license": "MR1111",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/230_Dr_faiha.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/Faiha",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Fathmath Reesha Azeem",
+        "department": "Medical Officers",
+        "joined": "17 January 2022",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/296_5381-_Dr._Reesha_(Medical_Officer).png",
+        "url": "https://www.adkhospital.mv/en/employee/fathmath-reesha-azeem",
+        "duty": "00:00 - 08:00"
+    },
+    {
+        "name": "Dr. Fathmath Shifna",
+        "department": "Medical Officers",
+        "joined": "29 May 2021",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/281_Dr._Shifna.png",
+        "url": "https://www.adkhospital.mv/en/employee/fathmath-shifna",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Fathmath Shudhfa Ibrahim",
+        "department": "Radiology",
+        "joined": "20 October 2021",
+        "license": "PMR0330",
+        "designation": "Consultant in Radiology",
+        "img": "https://www.adkhospital.mv/resources/employee/274_5244.png",
+        "url": "https://www.adkhospital.mv/en/employee/fathmath-shudhfa",
+        "duty": "09:00 - 11:30"
+    },
+    {
+        "name": "Dr. Fathmath Zail Azmeel",
+        "department": "Medical Officers",
+        "joined": "1 February 2024",
+        "license": "PROV MR 3021 B",
+        "img": "https://www.adkhospital.mv/resources/employee/379_6003_Dr._Zail_(Medical_Officer)-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Fathmath-Zail-Azmeel",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Firdhaus Rasheed",
+        "department": "Dentistry",
+        "joined": "25 June 2013",
+        "license": "PMR0279",
+        "designation": "Dentist",
+        "img": "https://www.adkhospital.mv/resources/employee/94_Dr_Firdaus.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/Firdhaus",
+        "duty": "15:30 - 23:00"
+    },
+    {
+        "name": "Mr Githin George",
+        "department": "Physiotherapy & Rehabilitation",
+        "designation": "Physiotherapist",
+        "img": "https://www.adkhospital.mv/resources/employee/337_IMG_2604-removebg-preview.png",
+        "url": "https://www.adkhospital.mv/en/employee/Githin-George",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Hanan Shameem Ibrahim",
+        "department": "Medical Officers",
+        "joined": "22 December 2020",
+        "license": "PMR0548",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/279_4892_-_Dr._Hanaan.png",
+        "url": "https://www.adkhospital.mv/en/employee/hanan-shameem-ibrahim",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Hawwa Sana",
+        "department": "Medical Officers",
+        "joined": "26 April 2021",
+        "license": "PMR0619",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/286_5042_-_Dr._Hawwa_Sana@0,1x.png",
+        "url": "https://www.adkhospital.mv/en/employee/hawwa-sana",
+        "duty": "00:00 - 08:00"
+    },
+    {
+        "name": "Dr. Hishama Abdulla",
+        "department": "Medical Officers",
+        "joined": "15 September 2021",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/285_5187_-_Dr._Hishama.png",
+        "url": "https://www.adkhospital.mv/en/employee/hishama-abdulla",
+        "duty": "16:00 - 00:00"
+    },
+    {
+        "name": "Dr. Hussain Mohamed Fulhu",
+        "department": "Medical Officers",
+        "license": "PMR0501",
+        "designation": "MBBS",
+        "img": "https://www.adkhospital.mv/resources/employee/252_4643-_Dr._Hussain_(Medical_Officer).png",
+        "url": "https://www.adkhospital.mv/en/employee/Hussain",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Hussain Shakeel",
+        "department": "Orthopedics",
+        "joined": "1 November 2014",
+        "license": "PMR0071",
+        "designation": "Senior Consultant in Orthopaedics",
+        "img": "https://www.adkhospital.mv/resources/employee/48_Dr._Shakeel-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/hussain-shakeel",
+        "duty": "14:00 - 19:00"
+    },
+    {
+        "name": "Mr Ibrahim Irufaan",
+        "department": "Physiotherapy & Rehabilitation",
+        "designation": "Physiotherapist",
+        "img": "https://www.adkhospital.mv/resources/employee/345_5795_-_Irfan.png",
+        "url": "https://www.adkhospital.mv/en/employee/Ibrahim-Irufaan",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Ismail Ejaz Ali",
+        "department": "Pediatrics",
+        "joined": "2 June 2022",
+        "license": "PMR0372",
+        "designation": "Conusltant in Pediatrics",
+        "img": "https://www.adkhospital.mv/resources/employee/311_Dr._Ejaaz.png",
+        "url": "https://www.adkhospital.mv/en/employee/Ismail-Ejaz-Ali",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Ismail Zaeem Zahid",
+        "department": "Medical Officers",
+        "joined": "17 August 2022",
+        "designation": "Medical officer",
+        "img": "https://www.adkhospital.mv/resources/employee/315_5577_-_Dr.Ismail_Zaeem.png",
+        "url": "https://www.adkhospital.mv/en/employee/Ismail-Zaeem-Zahid",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Jagdish Lamsal",
+        "department": "Nephrology",
+        "joined": "22 July 2023",
+        "license": "TMR5924",
+        "designation": "Consultant in Nephrology",
+        "img": "https://www.adkhospital.mv/resources/employee/351_5830_-_Dr._Jagdish.png",
+        "url": "https://www.adkhospital.mv/en/employee/Jagdish-Lamsal",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Jahangir Ahmed Sheikh",
+        "department": "Medical Officers",
+        "joined": "26 December 2023",
+        "license": "TMR5575",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/374_IMG_2813_copy-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Jahangir-Ahmed-Sheikh",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Jeehan Ahmed",
+        "department": "Medical Officers",
+        "license": "MR1652",
+        "designation": "Medical officer",
+        "img": "https://www.adkhospital.mv/resources/employee/253_4624_-_Dr._Jeehan_(Medical_Officer).png",
+        "url": "https://www.adkhospital.mv/en/employee/Jeehan",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Kamal Raj Soti",
+        "department": "Oncology",
+        "joined": "13 April 2019",
+        "license": "TMR4299",
+        "designation": "Oncologist",
+        "img": "https://www.adkhospital.mv/resources/employee/225_Kamal_web.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/Kamal",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Kiran Niraula",
+        "department": "Neurosurgery",
+        "joined": "27 April 2019",
+        "img": "https://www.adkhospital.mv/resources/employee/233_4433-_Dr._Kiran_(Consultant_in_Neurosurgery).jpg",
+        "url": "https://www.adkhospital.mv/en/employee/kiran-niraula",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Leena Saleem",
+        "department": "Obstetrics & Gynecology",
+        "joined": "23 May 2021",
+        "license": "PMR0299",
+        "designation": "Consultant in Obstetrics & Gyneacology",
+        "img": "https://www.adkhospital.mv/resources/employee/11_Leena.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/leena-saleem",
+        "duty": ""
+    },
+    {
+        "name": "Ms Lubana Shah",
+        "department": "Physiotherapy & Rehabilitation",
+        "designation": "Head, Sports, Exercise and Rehabilitation Therapy",
+        "img": "https://www.adkhospital.mv/resources/employee/343_5719_-_Lubana.png",
+        "url": "https://www.adkhospital.mv/en/employee/Lubana-Shah",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Mahaa Waheed",
+        "department": "Medical Officers",
+        "joined": "6 December 2020",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/277_Dr._Mahaa-.png",
+        "url": "https://www.adkhospital.mv/en/employee/mahaa-waheed",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Malathi Bhaskar",
+        "department": "Anesthesia",
+        "license": "TMR5878",
+        "designation": "Consultant in Anesthesiology",
+        "img": "https://www.adkhospital.mv/resources/employee/361_05888_Dr._Malathi_(Consultant_in_Anesthesiology)-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Malathi-bhaskar",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Manimegalai Subramaniyam",
+        "department": "Medical Officers",
+        "joined": "11 January 2024",
+        "license": "PROV MR 2983 B",
+        "img": "https://www.adkhospital.mv/resources/employee/376_5988_-_Dr_Manimegalai__(Medical_Officer)-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Manimegalai-Subramaniyam",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Mariyam Areesha",
+        "department": "Medical Officers",
+        "joined": "15 September 2021",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/284_5186-_Dr._Areesha_(Medical_Officer).png",
+        "url": "https://www.adkhospital.mv/en/employee/mariyam-areesha",
+        "duty": "00:00 - 08:00"
+    },
+    {
+        "name": "Dr. Mariyam Balshoon Mohamed Shah",
+        "department": "Medical Officers",
+        "joined": "20 October 2020",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/302_Dr._Balshoon.png",
+        "url": "https://www.adkhospital.mv/en/employee/mariyam-balshoon-mohamed-shah",
+        "duty": ""
+    },
+    {
+        "name": "Ms Mariyam Najla",
+        "department": "Nutrition and Dietetics",
+        "joined": "16 July 2011",
+        "designation": "Dietitian",
+        "img": "https://www.adkhospital.mv/resources/employee/34_Ms_Najla_website.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/mariyam-najla",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Mariyam Shafa Rameez",
+        "department": "Medical Officers",
+        "joined": "14 November 2023",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/368_5925_-_Dr._Shafa_(Medical_Officer)-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Mariyam-Shafa-Rameez",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Mauroof Wisam",
+        "department": "Surgery",
+        "joined": "22 June 2019",
+        "license": "PMR0486",
+        "designation": "Consultant in Surgery",
+        "img": "https://www.adkhospital.mv/resources/employee/234_4468-_Dr._Mauroof_(Consultant_in_Surgery__).png",
+        "url": "https://www.adkhospital.mv/en/employee/mauroof-wisam",
+        "duty": "16:00 - 21:00"
+    },
+    {
+        "name": "Dr. Mauroofa Abdul Latheef",
+        "department": "E.N.T",
+        "license": "PMR0509",
+        "designation": "Consultant in ENT",
+        "img": "https://www.adkhospital.mv/resources/employee/248_4623_-Dr.Mauroofa.png",
+        "url": "https://www.adkhospital.mv/en/employee/Mauroofa",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Moataz Ayman Saleh Abdelaziz",
+        "department": "Cardiothoracic & Vascular Surgery",
+        "joined": "16 August 2023",
+        "license": "TMR5959",
+        "designation": "Senior Consultant in Cardiothoracic and Vascular Surgery",
+        "img": "https://www.adkhospital.mv/resources/employee/354_5848.png",
+        "url": "https://www.adkhospital.mv/en/employee/Moataz-Ayman-Saleh-Abdelaziz",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Mohamed Elshaarawi Mohamed Youssif",
+        "department": "Anesthesia",
+        "joined": "16 December 2023",
+        "license": "TMR5136",
+        "designation": "Consultant in Anesthesiology",
+        "img": "https://www.adkhospital.mv/resources/employee/373_New_doctr_copy-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Mohamed-Elshaarawi-Mohamed-Youssif",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Mohamed Fariu Moosa",
+        "department": "Medical Officers",
+        "joined": "27 September 2017",
+        "license": "PMR0446",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/themes/adk3/images/blank_person.png",
+        "url": "https://www.adkhospital.mv/en/employee/Mohamed-fariu-Moosa",
+        "duty": "08:00 - 16:00"
+    },
+    {
+        "name": "Dr. Mohamed Hisan Hayyu",
+        "department": "Medical Officers",
+        "joined": "12 November 2023",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/367_5923_-_Dr_Hisan_(Medical_Officer)-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Mohamed-Hisan-Hayyu",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Mohamed Mishwaar Ashfaq",
+        "department": "Orthopedics",
+        "joined": "1 August 2017",
+        "license": "PMR0226",
+        "designation": "Consultant in Orthopedics",
+        "img": "https://www.adkhospital.mv/resources/employee/179_Dr_Mishwaar_website.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/mohamed-mishwaar-ashfaq",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Mohamed Shaffaf Ismail",
+        "department": "Medical Officers",
+        "joined": "25 August 2018",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/themes/adk3/images/blank_person.png",
+        "url": "https://www.adkhospital.mv/en/employee/Mohamed-Shaffaf-Ismail",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Mohamed Shafiu",
+        "department": "Cardiothoracic & Vascular Surgery",
+        "joined": "7 November 2017",
+        "license": "PMR011",
+        "designation": "Cardiac Thoracic and Vascular Surgeon & Chief Surgical Officer (CSO)",
+        "img": "https://www.adkhospital.mv/resources/employee/177_Dr.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/mohamed-shafiu",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Mohamed Shafraz",
+        "department": "Medical Officers",
+        "joined": "31 October 2023",
+        "license": "PMR0814",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/366_5915_-_Dr._Shafraz_(Medical_Officer)-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Mohamed-Shafraz",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Mukesh Prasad Sah",
+        "department": "Gastroenterology",
+        "joined": "10 January 2022",
+        "license": "TMR5166",
+        "designation": "Gastroenterologist",
+        "img": "https://www.adkhospital.mv/resources/employee/294_Dr._Mukesh.png",
+        "url": "https://www.adkhospital.mv/en/employee/mukesh-prasad-sah",
+        "duty": "09:00 - 15:00"
+    },
+    {
+        "name": "Dr. Murari Prasad Barakoti",
+        "department": "Cardiology",
+        "joined": "22 June 2019",
+        "designation": "Consultant in Cardiology",
+        "img": "https://www.adkhospital.mv/resources/employee/235_4476-_Dr._Murari_(Consultant_in_Cardiology).JPG",
+        "url": "https://www.adkhospital.mv/en/employee/murari-prasad-barakoti",
+        "duty": "09:00 - 15:00"
+    },
+    {
+        "name": "Dr. Nader Abdul Razak",
+        "department": "Pulmonary and Respiratory Medicine",
+        "joined": "3 January 2023",
+        "license": "TMR5649",
+        "designation": "Consultant in Pulmonary Medicine",
+        "img": "https://www.adkhospital.mv/resources/employee/327_5714_Dr._Nader_-_New_Card_photo.png",
+        "url": "https://www.adkhospital.mv/en/employee/Nader-Abdul-Razak",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Nafha Abdulla",
+        "department": "Medical Officers",
+        "joined": "25 January 2022",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/297_5389-_Dr._Nafha_(Medical_Officer).png",
+        "url": "https://www.adkhospital.mv/en/employee/nafha-abdulla",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Najahath Ahmed",
+        "department": "Medical Officers",
+        "joined": "25 January 2022",
+        "license": "PMR0660",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/299_5391-_Dr._Najahath_(Medical_Officer).png",
+        "url": "https://www.adkhospital.mv/en/employee/najahath-ahmed",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Nuzha Mohamed",
+        "department": "Dermatology and Venerology",
+        "license": "PMR0067",
+        "designation": "Senior Consultant in Dermatology",
+        "img": "https://www.adkhospital.mv/resources/employee/161_Dr_Nuzuha.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/nuzha-mohamed",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Prabhaw Upadhyaya",
+        "department": "Internal Medicine",
+        "license": "TMR5449",
+        "designation": "Consultant in Internal Medicine",
+        "img": "https://www.adkhospital.mv/resources/employee/371_New_Doc_copy-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Prabhaw-Upadhyaya",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Pradip Kumar Paudel",
+        "department": "Pediatrics",
+        "joined": "1 March 2023",
+        "designation": "Consultant in Peadiatric",
+        "img": "https://www.adkhospital.mv/resources/employee/341_2nd-removebg-preview.png",
+        "url": "https://www.adkhospital.mv/en/employee/Pradip-Kumar-Paudel",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Prashanna Acharya",
+        "department": "Internal Medicine",
+        "joined": "29 October 2018",
+        "license": "TMR4017",
+        "designation": "Consultant Internal Medicine",
+        "img": "https://www.adkhospital.mv/resources/employee/220_Dr_Prashanth1.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/Prashanna-Acharya",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Praveen Jeya Chidambara Pandian",
+        "department": "Dentistry",
+        "joined": "26 April 2012",
+        "designation": "Dentist",
+        "img": "https://www.adkhospital.mv/resources/employee/72_Dr_Praveen_website.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/praveen",
+        "duty": "08:00 - 15:30"
+    },
+    {
+        "name": "Dr. Prem Raj Sigdel",
+        "department": "Urology",
+        "joined": "12 July 2023",
+        "license": "TMR5924",
+        "designation": "Urologist",
+        "img": "https://www.adkhospital.mv/resources/employee/350_5828_-_Dr._Prem-removebg-preview.png",
+        "url": "https://www.adkhospital.mv/en/employee/Prem-Raj-Sigdel",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Pushpa Bhatta",
+        "department": "Opthalmology",
+        "joined": "29 October 2018",
+        "license": "TMR4018",
+        "designation": "Consultant in Opthalmology",
+        "img": "https://www.adkhospital.mv/resources/employee/224_Dr_Pushpa.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/pushpa-bhatta",
+        "duty": "15:00 - 22:00"
+    },
+    {
+        "name": "Dr. Quraisha Haneef",
+        "department": "Internal Medicine",
+        "license": "PMR0310",
+        "designation": "Consultant in Internal Medicine",
+        "img": "https://www.adkhospital.mv/resources/employee/292_5358_-_Dr._Quraisha.png",
+        "url": "https://www.adkhospital.mv/en/employee/quraisha-haneef",
+        "duty": "15:00 - 22:00"
+    },
+    {
+        "name": "Dr. Robin Bhattarai",
+        "department": "Neurosurgery",
+        "joined": "14 March 2022",
+        "license": "5250",
+        "designation": "Consultant in Neurosurgery",
+        "img": "https://www.adkhospital.mv/resources/employee/304_5463-_Dr._Robin_(Consultant_in_Neurosurgery).png",
+        "url": "https://www.adkhospital.mv/en/employee/Robin-Bhattarai",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Roshani Wagle",
+        "department": "Dermatology and Venerology",
+        "joined": "22 December 2018",
+        "license": "TMR4233",
+        "designation": "Consultant in Dermatology",
+        "img": "https://www.adkhospital.mv/resources/employee/202_4300.png",
+        "url": "https://www.adkhospital.mv/en/employee/Roshani-Wagle",
+        "duty": "08:00 - 13:00"
+    },
+    {
+        "name": "Dr. Sajad Ahmad Malik",
+        "department": "Endocrinology",
+        "license": "TMR3881",
+        "designation": "Senior Consultant in Endocrinology",
+        "img": "https://www.adkhospital.mv/resources/employee/189_Dr_sajad_website.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/Sajad-Ahmad",
+        "duty": "15:00 - 22:00"
+    },
+    {
+        "name": "Dr. Sana Majdhee",
+        "department": "Medical Officers",
+        "joined": "15 May 2021",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/288_5066_-_Dr.Sana.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/sana-majdhee",
+        "duty": "00:00 - 08:00"
+    },
+    {
+        "name": "Dr. Sasi Seerappan",
+        "department": "Obstetrics & Gynecology",
+        "joined": "14 September 2014",
+        "license": "TMR3127",
+        "designation": "Consultant in Obstetrics & Gynaecology",
+        "img": "https://www.adkhospital.mv/resources/employee/63_Dr_Sasi_seerapan.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/sasi-seerappan",
+        "duty": "08:00 - 13:00"
+    },
+    {
+        "name": "Dr. Sasikumar Atthipalayam Chellamuthu",
+        "department": "Neurology",
+        "joined": "11 August 2014",
+        "license": "TMR3144",
+        "designation": "Senior Consultant, Neurologist",
+        "img": "https://www.adkhospital.mv/resources/employee/66_2806.png",
+        "url": "https://www.adkhospital.mv/en/employee/sasikumar-atthipalayam",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Saudhath Ibrahim",
+        "department": "Medical Officers",
+        "joined": "17 August 2022",
+        "designation": "Medical officer",
+        "img": "https://www.adkhospital.mv/resources/employee/318_5581_-_Dr_Saudhath.png",
+        "url": "https://www.adkhospital.mv/en/employee/Saudhath-Ibrahim",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Seema Umar",
+        "department": "Microbiology",
+        "joined": "26 January 2022",
+        "license": "PMR0270",
+        "designation": "Consultant in Microbiology",
+        "img": "https://www.adkhospital.mv/resources/employee/300_5392-_Dr._Seema_(Consultant_in_Microbiology).png",
+        "url": "https://www.adkhospital.mv/en/employee/seema-umar",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Shafraz Mohamed Shaheid",
+        "department": "Orthopedics",
+        "joined": "3 October 2018",
+        "license": "TMR4164",
+        "designation": "Consultant in Orthopedics",
+        "img": "https://www.adkhospital.mv/resources/employee/198_Shafraz-removebg-preview.png",
+        "url": "https://www.adkhospital.mv/en/employee/shafraz-mohamed-shaheid",
+        "duty": "08:00 - 16:00"
+    },
+    {
+        "name": "Dr. Shaheela Mohamed Naseer",
+        "department": "Medical Officers",
+        "joined": "4 June 2023",
+        "designation": "Medical officer",
+        "img": "https://www.adkhospital.mv/resources/employee/349_photo_2023-06-11_14-22-48-removebg-preview.png",
+        "url": "https://www.adkhospital.mv/en/employee/Shaheela-Mohamed-Naseer",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Shahid Latif",
+        "department": "Medical Officers",
+        "joined": "11 January 2024",
+        "license": "PROV MR 3034 B",
+        "img": "https://www.adkhospital.mv/resources/employee/377_5989_-_Dr._Shahid_(Medical_Officer)-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Shahid-Latif",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Shahula Afeef",
+        "department": "Radiology",
+        "joined": "19 March 2017",
+        "license": "PMR0126",
+        "designation": "Consultant, Radiologist",
+        "img": "https://www.adkhospital.mv/resources/employee/168_Dr_Shahula_website.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/shahula-afeef",
+        "duty": "08:00 - 13:00"
+    },
+    {
+        "name": "Dr. Shanti Jaishi",
+        "department": "Obstetrics & Gynecology",
+        "joined": "12 December 2021",
+        "license": "TMR4887",
+        "designation": "Consultant in Obstetrics & Gynecology",
+        "img": "https://www.adkhospital.mv/resources/employee/363_5339_-_Dr._Shanti.png",
+        "url": "https://www.adkhospital.mv/en/employee/shanti-jaishi",
+        "duty": "08:00 - 13:00"
+    },
+    {
+        "name": "Dr. Shaufa Ahmed",
+        "department": "Medical Officers",
+        "joined": "25 January 2022",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/298_5390-_Dr._Shaufa_(Medical_Officer).png",
+        "url": "https://www.adkhospital.mv/en/employee/shaufa-ahmed",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Sheeneez Shareef",
+        "department": "Medical Officers",
+        "joined": "2 February 2022",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/301_IMG_4518-removebg-preview.png",
+        "url": "https://www.adkhospital.mv/en/employee/sheeneez-shareef",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Sherif Mostafa Salem Ahmed",
+        "department": "Orthopedics",
+        "joined": "18 February 2024",
+        "license": "TMR6129",
+        "designation": "Consultant in Orthopaedics",
+        "img": "https://www.adkhospital.mv/resources/employee/381_6015_-_Dr._Sherif_(Consultant_in_Orthopaedics)-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Sherif-Mostafa-Salem-Ahmed",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Shivir Sharma Dahal",
+        "department": "Internal Medicine",
+        "joined": "9 February 2023",
+        "designation": "Consultant in Internal Medicine",
+        "img": "https://www.adkhospital.mv/resources/employee/333_Edit2-removebg-preview.png",
+        "url": "https://www.adkhospital.mv/en/employee/Shivir-Sharma-Dahal",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Shiyara Ibrahim",
+        "department": "Medical Officers",
+        "joined": "28 January 2023",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/332_5730_-_Dr._Shiyara_-_Medical_Officer.png",
+        "url": "https://www.adkhospital.mv/en/employee/Shiyara-Ibrahim",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Shoaib Ahmed",
+        "department": "Neurology",
+        "joined": "3 February 2024",
+        "license": "TMR6121",
+        "designation": "Consultant in Neurology",
+        "img": "https://www.adkhospital.mv/resources/employee/380_New_Doc_copy-min.png",
+        "url": "https://www.adkhospital.mv/en/employee/Shoaib-Ahmed",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Soodh Antony",
+        "department": "Dentistry",
+        "joined": "4 November 2002",
+        "license": "TMR0411",
+        "designation": "Senior Registrar Dentistry and Head of Dentistry Department",
+        "img": "https://www.adkhospital.mv/resources/employee/3_photo_2020-06-07_13-40-18.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/soodh-antony",
+        "duty": "08:00 - 15:30"
+    },
+    {
+        "name": "Dr. Syed Farhan Ali",
+        "department": "Dentistry",
+        "joined": "17 November 2012",
+        "img": "https://www.adkhospital.mv/resources/employee/79_Dr_Farhan_website.jpg",
+        "url": "https://www.adkhospital.mv/en/employee/Farhan",
+        "duty": "15:30 - 23:00"
+    },
+    {
+        "name": "Mr Tharig Majeedh",
+        "department": "Physiotherapy & Rehabilitation",
+        "designation": "Senior Physiotherapist",
+        "img": "https://www.adkhospital.mv/resources/employee/334_5565_-_Tharig.png",
+        "url": "https://www.adkhospital.mv/en/employee/Tharig-Majeedh",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Thulapitiyage Nishara Priyanji Weerasinghe",
+        "department": "Medical Officers",
+        "joined": "8 May 2023",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/353_5839_-_Dr._Priyanji.png",
+        "url": "https://www.adkhospital.mv/en/employee/Thulapitiyage-Nishara-Priyanji-Weerasinghe",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Ubaidullah Hamoodh Rasheed",
+        "department": "Medical Officers",
+        "joined": "17 August 2022",
+        "designation": "Medical officer",
+        "img": "https://www.adkhospital.mv/resources/employee/317_5580_-_Dr._Hamoodh.png",
+        "url": "https://www.adkhospital.mv/en/employee/Ubaidullah-Hamoodh-Rasheed",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Ummu Kulsoom Mohamed",
+        "department": "Medical Officers",
+        "joined": "13 May 2023",
+        "designation": "Medical officer",
+        "img": "https://www.adkhospital.mv/resources/employee/347_5803.png",
+        "url": "https://www.adkhospital.mv/en/employee/Ummu-Kulsoom-Mohamed",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Zaaib Ibrahim Azim",
+        "department": "Medical Officers",
+        "joined": "28 January 2023",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/331_5729_-_Dr._Zaaib_(Medical_Officer).png",
+        "url": "https://www.adkhospital.mv/en/employee/Zaaib-Ibrahim-Azim",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Zahiya Abdul Baree",
+        "department": "Obstetrics & Gynecology",
+        "license": "PMR0303",
+        "designation": "Consultant in Obstetrics & Gynaecology",
+        "img": "https://www.adkhospital.mv/resources/employee/249_Dr.Zahiya.png",
+        "url": "https://www.adkhospital.mv/en/employee/Zahiya",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Zaaib Ibrahim Azim",
+        "department": "Medical Officers",
+        "joined": "28 January 2023",
+        "designation": "Medical Officer",
+        "img": "https://www.adkhospital.mv/resources/employee/331_5729_-_Dr._Zaaib_(Medical_Officer).png",
+        "url": "https://www.adkhospital.mv/en/employee/Zaaib-Ibrahim-Azim",
+        "duty": ""
+    },
+    {
+        "name": "Dr. Zahiya Abdul Baree",
+        "department": "Obstetrics & Gynecology",
+        "license": "PMR0303",
+        "designation": "Consultant in Obstetrics & Gynaecology",
+        "img": "https://www.adkhospital.mv/resources/employee/249_Dr.Zahiya.png",
+        "url": "https://www.adkhospital.mv/en/employee/Zahiya",
+        "duty": ""
+    }
+]
